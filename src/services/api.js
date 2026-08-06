@@ -1,4 +1,5 @@
-const API_URL = 'http://localhost:5000/api';
+//const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://botinesfb9-backend.onrender.com/api';
 
 // Obtener todos los productos
 export const getProducts = async () => {
